@@ -12,23 +12,12 @@
     This advanced C programming project showcases mastery of complex programming concepts, including data manipulation, pointer arithmetic, file handling, and dynamic memory management. The project consists of three intricately linked programs, each designed to demonstrate practical problem-solving and efficient algorithm design in C.
   </p>
   <h2>How to Run the Code</h2>
-<p>To make it easy for you to run the code, I’ve created an account on Online GDB, a convenient online compiler. Below are the login details:</p>
-<ul>
-  <li><strong>Email:</strong> egarrett055@gmail.com</li>
-  <li><strong>Password:</strong> tempUser</li>
-</ul>
-<p>Follow these steps to run the program:</p>
-<ol>
-  <li>Click <a href="https://www.onlinegdb.com/edit/CWdpI3IrF" target="_blank">here</a> to open the project.</li>
-  <li>Enter the login credentials provided above (email and password).</li>
-  <li>On the left side of the page, click on <strong>"My Projects"</strong>.</li>
-  <li>Find and select the project titled <strong>"Dynamic Data Manipulator"</strong>.</li>
-  <li>Click on the <strong>"Dynamic Data Manipulator"</strong> project to open it.</li>
-  <li>Inside the project, locate and click the file named <strong>"main.c"</strong>.</li>
-  <li>Click the <strong>"Run"</strong> button to execute the program.</li>
-  <li>If prompted, select "C" from the "Language" dropdown near the top of the screen to proceed.</li>
-  <li>The program’s output will appear at the bottom of the screen, allowing you to experience the results of my work.</li>
-</ol>
+<p>
+  You can run this project directly in your browser without creating an account:
+  <a href="https://www.onlinegdb.com/fKNqSTMIxO" target="_blank">
+    👉 Click here to open on OnlineGDB
+  </a>
+</p>
 <p>Enjoy exploring the program!</p>
 </header>
 
