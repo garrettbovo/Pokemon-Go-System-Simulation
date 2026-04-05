@@ -39,12 +39,10 @@
 <section id="overview">
   <h2>Overview 📋</h2>
   <p>
-    The <strong>Dynamic Data Manipulator</strong> is a set of three advanced programs that demonstrate a wide range of C programming skills:
+    The <strong>Pokémon Go System Simulator</strong> is a set of three advanced programs that demonstrate a wide range of C programming skills:
   </p>
   <ul>
-    <li><strong>Word Frequency Analyzer:</strong> Extracts and counts word occurrences in large text files, sorting them lexicographically.</li>
     <li><strong>Linked List Manipulator:</strong> Implements and manipulates dynamic linked lists with operations such as insertion, deletion, and traversal.</li>
-    <li><strong>Matrix Processor:</strong> Performs complex matrix operations, showcasing array manipulation and numerical analysis.</li>
     <li><strong>Trie-Based Pokémon Search:</strong> Utilizes a Trie data structure to efficiently store and search Pokémon names. Custom character indexing optimizes memory usage and speeds up retrieval, ensuring fast performance with large datasets.</li>
   </ul>
 </section>
