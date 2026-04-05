@@ -197,4 +197,6 @@ void writeToFile(const struct Pokemon *);
 //function prototype for freeTrie which frees the dynamically allocated memory within the trie structure
 void freeTrie(struct Trie *);
 
+int runGame();
+
 #endif

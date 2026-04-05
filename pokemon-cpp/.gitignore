@@ -1,0 +1,12 @@
+# Build files
+*.o
+app
+
+# Mac system files
+.DS_Store
+
+# VSCode
+.vscode/
+
+# Temporary files
+*.log
