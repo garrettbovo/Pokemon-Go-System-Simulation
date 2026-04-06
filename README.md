@@ -7,7 +7,7 @@
 <body>
 
 <header>
-  <h1>Pokémon Go System Simulation</h1>
+  <h1>Collection System Simulation</h1>
   <p>
     This advanced C programming project showcases mastery of complex programming concepts, including data manipulation, pointer arithmetic, file handling, and dynamic memory management. The project consists of three intricately linked programs, each designed to demonstrate practical problem-solving and efficient algorithm design in C.
   </p>
