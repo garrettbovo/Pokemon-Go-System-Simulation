@@ -39,7 +39,7 @@
 <section id="overview">
   <h2>Overview 📋</h2>
   <p>
-    The <strong>Pokémon Go System Simulator</strong> is a set of three advanced programs that demonstrate a wide range of C programming skills:
+    The <strong>Collection System Simulator</strong> is a set of three advanced programs that demonstrate a wide range of C programming skills:
   </p>
   <ul>
     <li><strong>Linked List Manipulator:</strong> Implements and manipulates dynamic linked lists with operations such as insertion, deletion, and traversal.</li>
