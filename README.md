@@ -67,14 +67,20 @@ The engine is fully data-driven:
 ```
 Pokemon-Go-System-Simulation/
 │
-├── main.c               # Program entry point and top-level game loop
-├── pokemon.c            # Core simulation logic — hunt, capture, sort, display
-├── pokemon.h            # Struct definitions, manager interfaces, function declarations
+├── pokemon-cpp/
+│   ├── main.cpp              # C++ entry point and program control
+│   ├── PokemonWrapper.cpp    # C++ wrapper bridging C engine to higher-level logic
+│   ├── PokemonWrapper.hpp    # Wrapper interface definitions
+│   │
+│   ├── pokemon.c             # Core simulation engine (capture, sorting, traversal)
+│   ├── pokemon.h             # Data structures and function interfaces
+│   │
+│   ├── poke.txt              # External Pokémon dataset (runtime-loaded)
+│   │
+│   ├── Makefile              # Build automation
+│   └── .gitignore            # Git configuration
 │
-├── poke.txt             # Pokémon dataset — loaded at runtime
-│
-├── Makefile             # Build automation
-└── README.md            # Project documentation
+└── README.md                 # Project overview and usage
 ```
 
 ---
